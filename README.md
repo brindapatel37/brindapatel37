@@ -58,19 +58,20 @@ Now, as a **Full Stack Developer**, I bring both **technical expertise and busin
 ## 🤝 Let's Connect!  
 
 <h3 align="left">Find me here:</h3>  
-<p align="left">  
-  <a href="https://linkedin.com/in/brindapatel09" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"/>
+<div align="left">
+  <a href="https://linkedin.com/in/brindapatel09" target="_blank" style="display: inline-block; text-align: center; margin-right: 10px; text-decoration: none;">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"/>
   </a>  
-   <a href="mailto:brindap37@gmail.com" target="_blank">
+  <a href="mailto:brindap37@gmail.com" target="_blank" style="display: inline-block; text-align: center; margin-right: 10px; text-decoration: none;">
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-   <a href="https://bit.ly/3ZvyXjS" target="_blank">
+  <a href="https://docs.google.com/document/d/1JK1YJl0_-NrpUT4xFHfY9z_nzFoHwJ0fB-YOoFUq1lQ/edit?usp=sharing" target="_blank" style="display: inline-block; text-align: center; text-decoration: none;">
     <img src="https://img.shields.io/badge/Resume-gray?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" height="29px" alt="Resume" />
   </a>
-</p>  
+</div>
 
-🔗 **All of my projects** are available at [xx](xx)  
-📄 **Learn more about my experiences** at [xx](xx)  
+<div style="margin-top: 20px;">
+  🔗 **All of my projects** are available at [xx](xx)
+</div>
 
-🚀 **Always learning, always building.** Let's create something great together!  
+🚀 **Always learning, always building.** Let's create something great together!
